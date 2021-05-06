@@ -1,0 +1,11 @@
+C:\Users\clara\source\repos\3C1-MariaClara-29\3C1-MariaClara-29\bin\Debug\3C1-MariaClara-29.exe.config
+C:\Users\clara\source\repos\3C1-MariaClara-29\3C1-MariaClara-29\bin\Debug\3C1-MariaClara-29.exe
+C:\Users\clara\source\repos\3C1-MariaClara-29\3C1-MariaClara-29\bin\Debug\3C1-MariaClara-29.pdb
+C:\Users\clara\source\repos\3C1-MariaClara-29\3C1-MariaClara-29\obj\Debug\3C1-MariaClara-29.csprojAssemblyReference.cache
+C:\Users\clara\source\repos\3C1-MariaClara-29\3C1-MariaClara-29\obj\Debug\_3C1_MariaClara_29.Form1.resources
+C:\Users\clara\source\repos\3C1-MariaClara-29\3C1-MariaClara-29\obj\Debug\_3C1_MariaClara_29.Form2.resources
+C:\Users\clara\source\repos\3C1-MariaClara-29\3C1-MariaClara-29\obj\Debug\_3C1_MariaClara_29.Properties.Resources.resources
+C:\Users\clara\source\repos\3C1-MariaClara-29\3C1-MariaClara-29\obj\Debug\3C1-MariaClara-29.csproj.GenerateResource.cache
+C:\Users\clara\source\repos\3C1-MariaClara-29\3C1-MariaClara-29\obj\Debug\3C1-MariaClara-29.csproj.CoreCompileInputs.cache
+C:\Users\clara\source\repos\3C1-MariaClara-29\3C1-MariaClara-29\obj\Debug\3C1-MariaClara-29.exe
+C:\Users\clara\source\repos\3C1-MariaClara-29\3C1-MariaClara-29\obj\Debug\3C1-MariaClara-29.pdb
